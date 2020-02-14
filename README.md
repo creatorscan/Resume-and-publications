@@ -42,7 +42,6 @@
 * 2010–2012 Research Associate at IIT Madras
      * Member of the team working on building robust Indian Language speech recognizer Integrating telephone
        and speech recognizer using Asterisk software and Sphinx on Linux based operating system
-* 2009-2010 Web Researcher at Mobius Technologies
 ### Teaching experience
  Winter 2016 Teaching Assistant: Signals and systemsriculum vitae and list of publications
 ### Graduate coursework
