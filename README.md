@@ -9,7 +9,7 @@
     * M.S. by Project, Electrical engineering
     * Research topic: Subspace Based Features in speech recognition using neural networks
     * Advisor: S Umesh
-* 2005–2009 Sri Krishna Engineering College
+* Sri Krishna Engineering College
     * B.E. Electronics and communication
 ### Achievements
 * 2016 Winner of Babel IARPA challenge
